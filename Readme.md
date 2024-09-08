@@ -5,7 +5,7 @@ This is a simple Notes App built using HTML, CSS, and JavaScript. It allows user
 
 ## Demo
 
-Check out the live demo [Click Here]().
+Check out the live demo [Click Here](https://shanedrasingh.github.io/Notes-App/).
 
 ## Features
 
